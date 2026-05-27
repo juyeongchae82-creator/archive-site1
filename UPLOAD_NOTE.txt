@@ -1,0 +1,3 @@
+﻿UPLOAD NOTE:
+Upload every file in this folder together, keeping the same filenames and same folder level as index.html.
+Audio is guarded so only one track plays at a time: main music pauses fit music, fit music pauses main music.
